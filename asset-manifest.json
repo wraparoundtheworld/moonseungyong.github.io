@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3861b72c.css",
+    "main.js": "/static/js/main.12cad92f.js",
+    "static/js/787.3baf3e2a.chunk.js": "/static/js/787.3baf3e2a.chunk.js",
+    "static/media/TimesDotRom.woff": "/static/media/TimesDotRom.fbc69d8e826b7a1a3944.woff",
+    "index.html": "/index.html",
+    "main.3861b72c.css.map": "/static/css/main.3861b72c.css.map",
+    "main.12cad92f.js.map": "/static/js/main.12cad92f.js.map",
+    "787.3baf3e2a.chunk.js.map": "/static/js/787.3baf3e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3861b72c.css",
+    "static/js/main.12cad92f.js"
+  ]
+}
