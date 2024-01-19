@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moonseungyong/moonseungyong.github.io/static/css/main.fb3f4483.css",
+    "main.js": "/moonseungyong/moonseungyong.github.io/static/js/main.efca04c6.js",
+    "static/js/787.3baf3e2a.chunk.js": "/moonseungyong/moonseungyong.github.io/static/js/787.3baf3e2a.chunk.js",
+    "static/media/TimesDotRom.woff": "/moonseungyong/moonseungyong.github.io/static/media/TimesDotRom.fbc69d8e826b7a1a3944.woff",
+    "index.html": "/moonseungyong/moonseungyong.github.io/index.html",
+    "main.fb3f4483.css.map": "/moonseungyong/moonseungyong.github.io/static/css/main.fb3f4483.css.map",
+    "main.efca04c6.js.map": "/moonseungyong/moonseungyong.github.io/static/js/main.efca04c6.js.map",
+    "787.3baf3e2a.chunk.js.map": "/moonseungyong/moonseungyong.github.io/static/js/787.3baf3e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3f4483.css",
+    "static/js/main.efca04c6.js"
+  ]
+}
